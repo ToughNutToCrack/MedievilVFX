@@ -1,0 +1,441 @@
+fileFormatVersion: 2
+guid: 2c4806ad2b2c6d24e96fed76ad7e548f
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: BDx
+    100002: Bocca
+    100004: Bottoni
+    100006: Braccia
+    100008: Braccio_Dx
+    100010: Braccio_Sx
+    100012: BSx
+    100014: Capelli
+    100016: Cilindro2
+    100018: Colletto
+    100020: Corpo
+    100022: Corpo 1
+    100024: Faccia
+    100026: GambaDx
+    100028: GambaSx2
+    100030: Gambe
+    100032: Mesh
+    100034: Naso
+    100036: //RootNode
+    100038: OcchioDx1
+    100040: OcchioSx1
+    100042: Pennacchio
+    100044: SDx
+    100046: SSx
+    100048: Testa
+    100050: Vita
+    400000: BDx
+    400002: Bocca
+    400004: Bottoni
+    400006: Braccia
+    400008: Braccio_Dx
+    400010: Braccio_Sx
+    400012: BSx
+    400014: Capelli
+    400016: Cilindro2
+    400018: Colletto
+    400020: Corpo
+    400022: Corpo 1
+    400024: Faccia
+    400026: GambaDx
+    400028: GambaSx2
+    400030: Gambe
+    400032: Mesh
+    400034: Naso
+    400036: //RootNode
+    400038: OcchioDx1
+    400040: OcchioSx1
+    400042: Pennacchio
+    400044: SDx
+    400046: SSx
+    400048: Testa
+    400050: Vita
+    2100000: Red
+    2100002: Black
+    2100004: Yellow
+    2100006: Brown
+    2100008: Face
+    2100010: Gray1
+    2100012: lambert1
+    2100014: White
+    2100016: LightBrown
+    2300000: BDx
+    2300002: Bocca
+    2300004: Bottoni
+    2300006: Braccio_Dx
+    2300008: Braccio_Sx
+    2300010: BSx
+    2300012: Capelli
+    2300014: Cilindro2
+    2300016: Colletto
+    2300018: Corpo 1
+    2300020: Faccia
+    2300022: GambaDx
+    2300024: GambaSx2
+    2300026: Naso
+    2300028: OcchioDx1
+    2300030: OcchioSx1
+    2300032: Pennacchio
+    2300034: SDx
+    2300036: SSx
+    2300038: Vita
+    3300000: BDx
+    3300002: Bocca
+    3300004: Bottoni
+    3300006: Braccio_Dx
+    3300008: Braccio_Sx
+    3300010: BSx
+    3300012: Capelli
+    3300014: Cilindro2
+    3300016: Colletto
+    3300018: Corpo 1
+    3300020: Faccia
+    3300022: GambaDx
+    3300024: GambaSx2
+    3300026: Naso
+    3300028: OcchioDx1
+    3300030: OcchioSx1
+    3300032: Pennacchio
+    3300034: SDx
+    3300036: SSx
+    3300038: Vita
+    4300000: Corpo
+    4300002: Vita
+    4300004: Bottoni
+    4300006: BDx
+    4300008: BSx
+    4300010: Faccia
+    4300012: Capelli
+    4300014: Pennacchio
+    4300016: Cilindro2
+    4300018: Naso
+    4300020: OcchioSx1
+    4300022: OcchioDx1
+    4300024: Bocca
+    4300026: SDx
+    4300028: SSx
+    4300030: Colletto
+    4300032: Braccio_Dx
+    4300034: Braccio_Sx
+    4300036: GambaSx2
+    4300038: GambaDx
+    7400000: SAD
+    7400002: IDLE
+    7400004: FUN
+    7400006: EAT
+    7400008: MORTO
+    7400010: MORTO UP
+    7400012: DORMI
+    7400014: SVEGLIA
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: SAD
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: IDLE
+      takeName: Take 001
+      firstFrame: 120
+      lastFrame: 360
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FUN
+      takeName: Take 001
+      firstFrame: 360
+      lastFrame: 480
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: EAT
+      takeName: Take 001
+      firstFrame: 480
+      lastFrame: 600
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: MORTO
+      takeName: Take 001
+      firstFrame: 600
+      lastFrame: 660
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: MORTO UP
+      takeName: Take 001
+      firstFrame: 660
+      lastFrame: 720
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: DORMI
+      takeName: Take 001
+      firstFrame: 720
+      lastFrame: 780
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SVEGLIA
+      takeName: Take 001
+      firstFrame: 780
+      lastFrame: 840
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
