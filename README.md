@@ -1,6 +1,6 @@
 <p align="center"><img width="80" alt="tntc" src=".github/logo.png"></p>
 
-<h3 align="center">Pixelation Effect in Unity</h3>
+<h3 align="center">Medievil Death VFX - visual effect graph in Unity</h3>
 
 <p align="center">
 <a href="https://www.youtube.com/channel/UCTR740iIPwfu7Pz_BoCEJ-g" target="_blank"><img alt="Youtube Channel" src="https://img.shields.io/badge/tntc-youtube-red"></a>
